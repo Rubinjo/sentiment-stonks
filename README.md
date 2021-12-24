@@ -7,6 +7,13 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
+## Project Overview
+
+- School: University of Twente
+- Course: Data Science
+- Assignment Type: Open Project
+- Group Size: 2
+
 ## Initial Setup
 
 1. Request Reddit API key [(Link)](https://www.reddit.com/prefs/apps)
